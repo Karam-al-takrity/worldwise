@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "d9ca",
+      "cityName": "Damascus",
+      "country": "Syrian Arab Republic (the)",
+      "date": "2024-06-12T13:43:46.801Z",
+      "notes": "Work",
+      "emoji": "🇸🇾",
+      "position": {
+        "lat": "33.51696520596782",
+        "lng": "36.27629220485688"
+      }
+    },
+    {
+      "id": "c6f2",
+      "cityName": "Dreisbach",
+      "country": "Germany",
+      "date": "2024-09-30T07:48:58.266Z",
+      "notes": "",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "50.62507306341437",
+        "lng": "7.932128906250001"
+      }
+    },
+    {
+      "id": "3c33",
+      "cityName": "Lukavec u Horic",
+      "country": "Czechia",
+      "date": "2024-09-30T07:56:28.283Z",
+      "notes": "Very beautiful place",
+      "emoji": "🇨🇿",
+      "position": {
+        "lat": "50.401515322782366",
+        "lng": "15.600585937500002"
+      }
+    }
+  ]
+}
